@@ -20,8 +20,9 @@ show_minimal: false             # remove all clutter
 navigation:                     # accepts {file, title, url, icon, sidebaricon}
   - {file: "archive.html", sidebaricon: home}
   - {file: "README.md", sidebaricon: address-card}
-  - {file: "/CV_Praderio_Elia.pdf", title:"CV", sidebaricon: home}
-  - {file: "/blog.md", title:"Blog" sidebaricon: home}
+  - {file: "blog.md", title:"Blog", sidebaricon: home}
+  - {file: "/CV_Praderio_Elia.pdf", title:"CV", sidebaricon: address-card}
+ 
 
 external:                       # accepts {file, title, url, icon, sidebaricon}
   - {title: Mail, icon: envelope, url: "mailto:elia.praderio@gmail.com"}
