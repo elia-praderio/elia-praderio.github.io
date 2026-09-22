@@ -22,7 +22,7 @@ navigation:                     # accepts {file, title, url, icon, sidebaricon}
   - {file: "archive.html", sidebaricon: address-card}
   - {file: "blog.md", title: "Blog", sidebaricon: home}
   - {file: "CV_elia_praderio.pdf", title: "CV", sidebaricon: address-card}
-  
+  - {title: "CV2" }
 
 external:                       # accepts {file, title, url, icon, sidebaricon}
   - {title: Mail, icon: envelope, url: "mailto:elia.praderio@gmail.com"}
