@@ -18,12 +18,11 @@ show_minimal: false             # remove all clutter
 # Menu                          # for available icons see https://fontawesome.com/v5/icons/
 
 navigation:                     # accepts {file, title, url, icon, sidebaricon}
-  - {file: "archive.html", sidebaricon: home}
-  - {file: "README.md", sidebaricon: address-card}
+  - {file: "index.md", title: "Home", sidebaricon: home}
+  - {file: "archive.html", sidebaricon: address-card}
   - {file: "blog.md", title: "Blog", sidebaricon: home}
   - {file: "CV_elia_praderio.pdf", title: "CV", sidebaricon: address-card}
-  - {file: "index.md", title: "Home", sidebaricon: home}
- 
+  
 
 external:                       # accepts {file, title, url, icon, sidebaricon}
   - {title: Mail, icon: envelope, url: "mailto:elia.praderio@gmail.com"}
