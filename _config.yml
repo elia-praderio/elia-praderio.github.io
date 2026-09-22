@@ -20,7 +20,6 @@ show_minimal: false             # remove all clutter
 navigation:                     # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.md", title: "Home", sidebaricon: home}
   - {file: "archive.html", sidebaricon: address-card}
-  - {file: "blog.md", title: "Altro", sidebaricon: home}
   - {url: "/CV_elia_praderio.pdf", title: "CV", sidebaricon: address-card}
 
 external:                       # accepts {file, title, url, icon, sidebaricon}
