@@ -3,4 +3,4 @@ layout: page
 title: "Welcome"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean metus sapien, aliquet sit amet rutrum at, condimentum eu justo. Suspendisse fermentum auctor mauris vitae laoreet. Donec pellentesque hendrerit dolor, at sollicitudin lorem volutpat eu. Nam condimentum lacus ac pellentesque dignissim.
+Welcome to my website! I'm Elia, I like maths, brain teasers and green energy. It's pretty empty here as it's still very much a work in progress, check the Archive for some of my works. Cheers! 
